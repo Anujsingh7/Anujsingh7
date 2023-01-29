@@ -1,12 +1,5 @@
-<div align="center"> 
- <img width="100%" height = "250px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="cover" /> 
- </div> 
-  
- <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1> 
- <p align='center'> 
-  
- # 💫 About Me: 
- 🔭 I am just an avid learner interested in real-life applications of python and Machine Learning.<br><br>🌱 Currently, I am deep diving into Data Science and contributing to Open Source for building a better community. <br><br>👯 I’m looking to collaborate on Projects, Tech Articles, Hackathons, etc.<br><br>💬 Talk to me about Python, Machine Learning, Web 3.0, and Data Science. 
+💫 About Me: 
+🔭 I am just an avid learner interested in real-life applications of python and Machine Learning.<br><br>🌱 Currently, I am deep diving into Data Science and contributing to Open Source for building a better community. <br><br>👯 I’m looking to collaborate on Projects, Tech Articles, Hackathons, etc.<br><br>💬 Talk to me about Python, Machine Learning, Web 3.0, and Data Science. 
   
   
  # 💻 Tech Stack: 
